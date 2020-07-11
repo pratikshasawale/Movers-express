@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_final_drivermap">Map</string>
+    <string name="title_activity_testmap">Map</string>
+    <string name="title_activity_test">Map</string>
+    <string name="places_api_key">AIzaSyDbrOHiE1OY3qJX2OS8EZIumEvBM8GY_CY</string>
+
+</resources>

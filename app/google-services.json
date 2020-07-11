@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208967142947",
+    "firebase_url": "https://uberapp-b130e.firebaseio.com",
+    "project_id": "uberapp-b130e",
+    "storage_bucket": "uberapp-b130e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208967142947:android:65c8bd58ae6000c3122b96",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208967142947-5u2qgd8no2a3suujebge1ji3sj4egfm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber",
+            "certificate_hash": "3105ac50fbafe93d50340d105731f990c9c92e9c"
+          }
+        },
+        {
+          "client_id": "208967142947-2tbnnqumf5tf077eufgnt62m4pgckil9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA09YLHyBepG8llwpSFNeDLz_yh_RnzZrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208967142947-2tbnnqumf5tf077eufgnt62m4pgckil9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
